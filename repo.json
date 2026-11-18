@@ -49,7 +49,7 @@
     "DownloadLinkUpdate": "https://github.com/chefiffer/PVPTimeline/releases/download/v0.0.1/PvpTimeline-0.0.1.zip"
   },
   {
-    "Author": "Viewport Keeper Contributors",
+    "Author": "chefiffer",
     "Name": "Viewport Keeper",
     "InternalName": "ViewportKeeper",
     "AssemblyVersion": "0.0.1.0",
@@ -73,7 +73,7 @@
     "DownloadLinkUpdate": "https://github.com/chefiffer/ViewPortKeeper/releases/download/v0.0.1/ViewportKeeper-0.0.1.zip"
   },
   {
-    "Author": "Private Party Markers Contributors",
+    "Author": "chefiffer",
     "Name": "Private Party Markers",
     "InternalName": "PrivatePartyMarkers",
     "AssemblyVersion": "0.0.1.0",
