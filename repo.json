@@ -95,5 +95,30 @@
     "DownloadLinkInstall": "https://github.com/chefiffer/PrivatePartyMarkers/releases/download/v0.0.1/PrivatePartyMarkers-0.0.1.zip",
     "DownloadLinkTesting": "https://github.com/chefiffer/PrivatePartyMarkers/releases/download/v0.0.1/PrivatePartyMarkers-0.0.1.zip",
     "DownloadLinkUpdate": "https://github.com/chefiffer/PrivatePartyMarkers/releases/download/v0.0.1/PrivatePartyMarkers-0.0.1.zip"
+  },
+  {
+    "Author": "chefiffer",
+    "Name": "PVP Chronicle Recorder",
+    "InternalName": "PvpChronicleRecorder",
+    "AssemblyVersion": "0.0.1.0",
+    "TestingAssemblyVersion": null,
+    "Description": "Optional local recording companion for PVP Chronicle. OBS recordings stay on this computer.",
+    "Punchline": "Records supported PvP matches and links local video to Chronicle replay.",
+    "RepoUrl": "https://github.com/chefiffer/PVPChronicleRecorder",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "pvp",
+      "recording",
+      "obs",
+      "timeline",
+      "local"
+    ],
+    "DalamudApiLevel": 15,
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1795009102,
+    "DownloadLinkInstall": "https://github.com/chefiffer/PVPChronicleRecorder/releases/download/v0.0.1/PvpChronicleRecorder-0.0.1.zip",
+    "DownloadLinkTesting": "https://github.com/chefiffer/PVPChronicleRecorder/releases/download/v0.0.1/PvpChronicleRecorder-0.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/chefiffer/PVPChronicleRecorder/releases/download/v0.0.1/PvpChronicleRecorder-0.0.1.zip"
   }
 ]
